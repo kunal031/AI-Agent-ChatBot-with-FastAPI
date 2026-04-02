@@ -24,6 +24,10 @@ Here is a video demonstrating the chatbot in action:
 
 https://youtu.be/e5g6OP7kAy4
 
+## Agent UI
+
+![AI Agent UI](AI%20Agent%20UI.png)
+
 ## Features
 
 - **Conversational AI:** Powered by state-of-the-art LLMs from Groq and OpenAI.
@@ -31,10 +35,6 @@ https://youtu.be/e5g6OP7kAy4
 - **Customizable:** You can define the agent's personality and behavior with a system prompt.
 - **Easy to Use:** The Streamlit frontend provides a simple and intuitive interface for interacting with the chatbot.
 - **FastAPI Backend:** The robust and scalable backend is built with FastAPI.
-
-## Screenshot
-
-![AI Agent UI](AI%20Agent%20UI.png)
 
 ## Getting Started
 
