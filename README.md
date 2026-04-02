@@ -2,16 +2,32 @@
 
 This project is an AI-powered chatbot that uses LangGraph, Groq, and Tavily to provide intelligent and conversational responses. The backend is built with FastAPI and the frontend is a user-friendly interface created with Streamlit.
 
+# Tools and Technologies
+
+- LangGraph React Agents
+- FastAPI for API calls
+- Groq and OpenAI for LLM
+- Streamlit for UI
+- Langchain for tools
+- Tavily for web search tool
+- Uvicorn for hosting
+- Python 3.10+
+- VS Code
+
+# Architecture
+
+![AI Agent Architecture](Architecture.png)
+
 ## Demo
 
 Here is a video demonstrating the chatbot in action:
 
-https://github.com/kunal031/AI-Agent-ChatBot-with-FastAPI/assets/106422377/2d45a38a-75a0-4cb4-911c-4b01a3b8853c
+https://youtu.be/e5g6OP7kAy4
 
 ## Features
 
-- **Conversational AI:** Powered by state-of-the-art language models from Groq and OpenAI.
-- **Web Search:** The agent can perform web searches using Tavily to provide up-to-date information.
+- **Conversational AI:** Powered by state-of-the-art LLMs from Groq and OpenAI.
+- **Web Search:** Agent can perform web searches using Tavily to provide up-to-date information.
 - **Customizable:** You can define the agent's personality and behavior with a system prompt.
 - **Easy to Use:** The Streamlit frontend provides a simple and intuitive interface for interacting with the chatbot.
 - **FastAPI Backend:** The robust and scalable backend is built with FastAPI.
