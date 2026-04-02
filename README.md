@@ -6,7 +6,7 @@ This project is an AI-powered chatbot that uses LangGraph, Groq, and Tavily to p
 
 Here is a video demonstrating the chatbot in action:
 
-https://github.com/kunal031/AI-Agent-ChatBot-with-FastAPI/assets/106422377/2d45a38a-75a0-4cb4-911c-4b01a3b8853c
+https://youtu.be/e5g6OP7kAy4
 
 ## Features
 
